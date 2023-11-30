@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: #8128a7;
+    
+}
+
+.listitemnew{
+    margin-left: 1400px;
+    font-size: 20px;
+}
+
+.listitemnew1{
+    margin-left: 20px;
+    font-size: 20px;
+}
